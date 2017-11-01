@@ -61,4 +61,9 @@ class MakeCommand extends Command
             array('force', null, InputOption::VALUE_NONE, 'Force the operation to run when module already exist.'),
         ];
     }
+
+    public function handle()
+    {
+        
+    }
 }
