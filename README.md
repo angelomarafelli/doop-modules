@@ -57,7 +57,7 @@ No Documentation
 
 ## Credits
 
-- [Ângelo Marafeli](https://github.com/angelomarafelli)
+- [Ângelo Marafelli](https://github.com/angelomarafelli)
 - [Nicolas Widart](https://github.com/nwidart)
 
 ## About Ângelo Marafelli
