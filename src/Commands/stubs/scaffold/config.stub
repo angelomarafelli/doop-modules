@@ -1,0 +1,33 @@
+<?php
+
+return [
+    'key' => '$STUDLY_NAME$',
+    'icon' => 'fa fa-desktop',
+    'method' => [
+        'create' => [
+            'icon' => 'fa fa-fw fa-plus',
+            'class' => 'btn btn-success',
+        ],
+        'show' => [
+            'icon' => 'fa fa-fw fa-eye',
+            'class' => 'btn btn-primary',
+        ],
+        'edit' => [
+            'icon' => 'fa fa-fw fa-pencil',
+            'class' => 'btn btn-warning',
+        ],
+        'destroy' => [
+            'icon' => 'fa fa-fw fa-close',
+            'class' => 'btn btn-danger',
+        ]
+    ],
+
+   'buttonsHeader' => [
+        'manage' => ['back', 'create'],
+        'create' => ['back'],
+    ],
+
+    'buttonsTable' => [
+        'manage' => ['show', 'edit', 'destroy']
+    ],
+];
