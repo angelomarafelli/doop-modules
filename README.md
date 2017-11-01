@@ -61,9 +61,9 @@ You'll find installation instructions and full documentation on [https://nwidart
 - [gravitano](https://github.com/gravitano)
 - [All Contributors](../../contributors)
 
-## About Nicolas Widart
+## About Ângelo Marafelli
 
-Nicolas Widart is a freelance web developer specialising on the Laravel framework. View all my packages [on my website](https://nicolaswidart.com/projects).
+Ângelo Marafelli is a freelance web developer specialising on the Laravel framework. View all my packages [on my website](https://www.devremote.com.br).
 
 
 ## License
