@@ -1,4 +1,4 @@
-# Genrate-Modules
+# Generate-Modules
 
 `doop/generate-modules` is a Laravel package which created to manage your large Laravel app using modules. Module is like a Laravel package, it has some views, controllers or models. This package is supported and tested in Laravel 5.5.
 
@@ -33,7 +33,7 @@ Next, add the following aliases to `aliases` array in the same file:
 Next publish the package's configuration file by running:
 
 ``` bash
-php artisan vendor:publish --provider=DOOP\Modules\LaravelModulesServiceProvider"
+php artisan vendor:publish --provider=DOOP\Modules\ModulesServiceProvider"
 ```
 
 ### Autoloading
